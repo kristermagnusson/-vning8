@@ -1,0 +1,39 @@
+
+   body {
+    background-color: rgb(254, 251, 234);
+    }
+    header {
+        text-align: left; 
+        margin-bottom: 20px;
+    }
+    
+    footer {
+        height: 70px; 
+        margin-top:10px; 
+    }
+    p {
+        text-align: justify;
+    }    
+    .produkter  { 
+        width: 200px; 
+        margin-left: 15px; 
+    }   
+    .mail {
+        font-style: italic; 
+        color:gray;
+        text-decoration:none;}
+    .logo { 
+        border-radius: 30%; 
+        height:90px;   
+    }
+    .pic_people {
+        width: 200px; 
+        border-radius: 5%;
+    }
+    .photos {
+        height: 85px; 
+        margin-top: 10px;
+    border: solid 1px gray;
+    border-radius: 10%;
+    }
+  
